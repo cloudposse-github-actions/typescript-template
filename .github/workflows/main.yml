@@ -1,7 +1,4 @@
 on:
-  pull_request:
-    branches:
-      - ignore - "*"
   workflow_dispatch:
 
 jobs:
