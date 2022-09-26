@@ -12,4 +12,3 @@ test("wait 500 ms", async () => {
   const delta = Math.abs(end.getTime() - start.getTime());
   expect(delta).toBeGreaterThan(450);
 });
-
