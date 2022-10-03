@@ -68,7 +68,7 @@ This repo is a template for GitHub Actions written in TypeScript.
 
 
 
-Minimal Usage: TODO
+Use this repository as a template in your own GitHub Action project to get started.
 
 
 
